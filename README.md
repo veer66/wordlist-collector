@@ -6,4 +6,7 @@ wordlist-collecter is a tool for collecting and normalizing freely available wor
 
 ````
 ./collect.sh
+./merge.sh
 ````
+
+Result will be in wordlist.txt
